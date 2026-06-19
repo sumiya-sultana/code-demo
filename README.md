@@ -1,2 +1,4 @@
 # code-demo
-This is my First Git Repository Author-sumiya sultana
+This is my First Git Repository.
+<br>
+Author-sumiya sultana
